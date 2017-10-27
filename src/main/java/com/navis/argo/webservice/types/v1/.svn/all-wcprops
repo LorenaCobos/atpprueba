@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1
+END
+LanguageListType.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/LanguageListType.java
+END
+CountryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/CountryType.java
+END
+AddressType.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/AddressType.java
+END
+CountryListType.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/CountryListType.java
+END
+Empty.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/Empty.java
+END
+StateType.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/StateType.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/ObjectFactory.java
+END
+ScopeCoordinates.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/ScopeCoordinates.java
+END
+GenericInvokeResponseWsType.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/GenericInvokeResponseWsType.java
+END
+ExtendedDetailsType.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/ExtendedDetailsType.java
+END
+ScopeCoordinateIdsWsType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/ScopeCoordinateIdsWsType.java
+END
+MessageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/MessageType.java
+END
+MessageCollectorType.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/MessageCollectorType.java
+END
+PhonesType.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/PhonesType.java
+END
+QueryResultType.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/QueryResultType.java
+END
+AddressesType.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/AddressesType.java
+END
+ResponseType.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/ResponseType.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/package-info.java
+END
+LanguageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/LanguageType.java
+END
+CredentialType.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/argo/webservice/types/v1/CredentialType.java
+END

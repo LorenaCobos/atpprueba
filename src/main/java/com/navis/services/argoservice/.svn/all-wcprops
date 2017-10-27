@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/services/argoservice
+END
+GenericInvokeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/services/argoservice/GenericInvokeResponse.java
+END
+GenericInvoke.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/services/argoservice/GenericInvoke.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/services/argoservice/ObjectFactory.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/solicitudes.core/src/main/java/com/navis/services/argoservice/package-info.java
+END

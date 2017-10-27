@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="mybatis.reports.ContenedorStatusMapper">
+	<resultMap
+		type="com.atp.solicitudes.model.ContenedorStatus"
+		id="ContenedorStatus">
+		<result property="app_nbr" column="APP_NBR" /> 
+		<result property="unit_nbr" column="UNIT_NBR" />	
+	</resultMap>
+	<sql id="contenedor_query" >
+	<![CDATA[
+	]]>
+	
+	</sql>
+	<select id="selectContenedorStatus" resultMap="ContenedorStatus" parameterType="map" >
+		<include refid="contenedor_query" />
+		Select app_nbr, unit_nbr from GATE_APPOINTMENT_VIEW where RGA_UNIT_NBR like #{numContenedor} and STATE = 'CREATED'
+	</select>
+</mapper>
